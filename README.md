@@ -27,5 +27,6 @@ update
 ## Automated updates with Crontab
 
 ```
-sudo echo "@weekly /usr/bin/update" >> /var/spool/cron/crontabs/root
+crontab -e
+@weekly /usr/bin/update
 ```
