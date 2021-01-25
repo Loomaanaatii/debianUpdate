@@ -13,7 +13,7 @@ Basically it runs those commands with pretty colors =)
 ## Installation
 
 ```bash
-wget https://raw.githubusercontent.com/fire1ce/debianUpdate/master/debianUpdate.sh
+wget https://raw.githubusercontent.com/Loomaanaatii/debianUpdate/master/debianUpdate.sh
 sudo chmod +x debianUpdate.sh
 sudo mv debianUpdate.sh /usr/bin/update
 ```
