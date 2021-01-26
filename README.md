@@ -27,6 +27,6 @@ update
 ## Automated updates with Crontab
 
 ```
-crontab -e
+sudo crontab -e
 @weekly /usr/bin/update
 ```
